@@ -1,0 +1,26 @@
+[
+	{
+	"id":"1",
+	"title": "You're In! Now What? Training, Travel, Charity, and More",
+	"body": "Congratulations—you’re going to run the 2022 TCS New York City Marathon! With race day set for Sunday, November 6, here's what you can do right now to start getting ready and plan for the months ahead. Bookmark this article so you can come back to it.",
+	"date": "04/25/2022",
+	"imgUrl":"Marathon.jpg",
+    "summary":"Share Your News!\nTell your family and friends the good news and share it on social media using #TCSNYCMarathon and tag @nycmarathon. You’ll inspire others as you start your journey and of course, on race day.\n"
+	},
+	{
+	"id":"2",
+	"title": "Icon Kelly Slater continues to inspire at 50",
+	"body": "Far from slowing down, the all-time great is determined to write even more history in his illustrious legacy..",
+	"date": "04/23/2022",
+	"imgUrl":"olympicss.jpg",
+    "summary":"The name Kelly Slater is synonymous with surfing.\nIt is no exaggeration to say the sport would not be where it is today without the American.\nFor over three decades, Slater has been leading, inspiring, and winning all there is to win. He’s also not done yet."
+	},
+	{
+	"id":"3",
+	"title": "Who gained the most positions – and Emilia Romagna GP grid spots – in the Sprint?",
+	"body": "Imola host the first edition of F1 Sprint in 2022, with Max Verstappen fighting back from a poor start to re-pass championship leader Charles Leclerc and come out on top in a thrilling 21-lap event. We look at who gained the most positions – and therefore grid spots for the race – ahead of Sunday’s Emilia Romagna Grand Prix… ",
+	"date": "11/21/2121",
+	"imgUrl":"f!.jpg",
+    "summary":"Verstappen was at a loss to explain why he suffered so much wheelspin at the start, which allowed Ferrari’s Charles Leclerc to bolt past him into the lead of the F1 Sprint. And while he dropped back in the early phase, the reigning world champion slashed the gap as Leclerc struggled with his tyres before using DRS to blitz past the Ferrari and into the lead with two laps to go. That’s eight points in the bag and his first P1 Grand Prix start of the 2022 season."
+	}	
+]
